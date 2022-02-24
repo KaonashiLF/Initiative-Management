@@ -1,5 +1,4 @@
 import datetime as dt
-from lib2to3.pgen2.token import NAME
 import pandas as pd
 import pyautogui
 
